@@ -1,0 +1,28 @@
+{
+  "name": "pomelo",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudiliu/pomelofashion.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rudi Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudiliu/pomelofashion/issues"
+  },
+  "homepage": "https://github.com/rudiliu/pomelofashion#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/vision": "^6.0.0",
+    "detect-browser": "^5.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
