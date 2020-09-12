@@ -23,6 +23,6 @@
     "@hapi/hapi": "^19.1.1",
     "@hapi/vision": "^6.0.0",
     "detect-browser": "^5.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
